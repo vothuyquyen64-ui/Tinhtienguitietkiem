@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("MEITU_20260518_152632589.gpg")
+st.image("MEITU_20260518_152632589.jpg")
 # Tiêu đề ứng dụng
 st.title("APP TÍNH TIỀN TIẾT KIỆM_ĐỀ TÀI 5_VÕ THÚY QUYÊN")
 
